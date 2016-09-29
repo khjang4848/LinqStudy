@@ -1,0 +1,2 @@
+# LinqStudy
+Linq Sample Code
